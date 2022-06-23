@@ -5,6 +5,8 @@ class Contact extends Component {
         return (
             <div className="condiv">
             <h1 className="subtopic">Contact Me</h1>
+            <h1><hr /></h1>
+            <br />
             <h3>Email  :   dineshgiri1542@gmail.com</h3>
             
             <Social />
